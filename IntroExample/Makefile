@@ -4,3 +4,6 @@ compile:
 	jar cvfe IntroExample.jar Main -C bin .
 	chmod 700 IntroExample.jar
 	mv IntroExample.jar ../
+
+run:
+	cd ../ && java -jar IntroExample.jar

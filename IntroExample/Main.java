@@ -5,6 +5,7 @@ import ThisIsAPackage.GetInputFromUser;
 
 public class Main {
     public static void main(String[] args) throws IOException {
+        // System.out.println(args[0]);
         System.out.println("Please enter something");
 
         BufferedReader reader = new BufferedReader(
