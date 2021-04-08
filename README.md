@@ -6,6 +6,11 @@
 -   IDE (e.g. VS Code)
 -   Java (JDK - Java Development Kit)
 
+# Setup
+
+Mac: use brew to install OpenJDK
+Windows: you could have a look here https://docs.oracle.com/javase/tutorial/getStarted/cupojava/win32.html
+
 # Syllabus checklist
 
 1. Git & GitHub
