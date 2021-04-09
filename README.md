@@ -49,17 +49,17 @@ Windows: you could have a look here https://docs.oracle.com/javase/tutorial/getS
 
 # Dates and protocol
 
-| Date         | From  | Until | Topic                        |
-| ------------ | ----- | ----- | ---------------------------- |
-| Fri 09.04.21 | 09:00 | 12:15 | Terminal Basic Commands, Git (clone, pull, push, status, add, commit) |
-| Thu 15.04.21 | 09:00 | 12:15 | tbd                          |
-| Thu 29.04.21 | 09:00 | 12:15 | tbd                          |
-| Fri 30.04.21 | 09:00 | 12:15 | tbd                          |
-| Fri 07.05.21 | 13:00 | 16:15 | tbd                          |
-| Fri 11.06.21 | 09:00 | 12:15 | tbd                          |
-| Fri 25.06.21 | 13:00 | 16:15 | tbd                          |
-| Fri 02.07.21 | 09:00 | 12:15 | tbd                          |
-| Fri 23.07.21 | 09:00 | 12:15 | tbd                          |
-| Fri 30.07.21 | 09:00 | 12:15 | tbd                          |
-| Fri 30.07.21 | 13:00 | 16:15 | tbd                          |
-| Fri 06.08.21 | 09:00 | 14:30 | tbd                          |
+| Date         | From  | Until | Topic                                                                               |
+| ------------ | ----- | ----- | ----------------------------------------------------------------------------------- |
+| Fri 09.04.21 | 09:00 | 12:15 | Terminal Basic Commands (pwd, cd, ls), Git (clone, pull, push, status, add, commit) |
+| Thu 15.04.21 | 09:00 | 12:15 | tbd                                                                                 |
+| Thu 29.04.21 | 09:00 | 12:15 | tbd                                                                                 |
+| Fri 30.04.21 | 09:00 | 12:15 | tbd                                                                                 |
+| Fri 07.05.21 | 13:00 | 16:15 | tbd                                                                                 |
+| Fri 11.06.21 | 09:00 | 12:15 | tbd                                                                                 |
+| Fri 25.06.21 | 13:00 | 16:15 | tbd                                                                                 |
+| Fri 02.07.21 | 09:00 | 12:15 | tbd                                                                                 |
+| Fri 23.07.21 | 09:00 | 12:15 | tbd                                                                                 |
+| Fri 30.07.21 | 09:00 | 12:15 | tbd                                                                                 |
+| Fri 30.07.21 | 13:00 | 16:15 | tbd                                                                                 |
+| Fri 06.08.21 | 09:00 | 14:30 | tbd                                                                                 |
