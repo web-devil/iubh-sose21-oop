@@ -1,0 +1,59 @@
+09.04.2021
+==========
+
+Terminal
+--------
+- also: Command Line, Shell, Bash, ....
+- Terminal allows us to navigate through folders
+- Commands can be execute
+- `pwd` show current path
+- `cd` change directory
+- `ls` list content of current directory (it can be `dir` on Windowns if PowerShell)
+
+Git Introduction
+----------------
+- Git is a command line tool for version control
+- `git clone url` clones url from "Git-Server" to local computer and puts the
+repository into a new folder 
+- `git pull` pulls updates/changes from "Git-Server" to local computer
+- `git status` list curernt changes for commit
+- `git add file` adds a file to git (so that the changes are tracked by Git)
+- `git commit -m "message"` logical group of changes 
+- `git push` upload local commits to "Git-Server"
+
+Compiler and Interpeter
+-----------------------
+- `python helloworld.py`
+- vs `javac Main.java && java Main``
+- Python is interpreted; direct execution of code
+- Java is compiled*; source code -> binary -> executed
+- * in fact Java is a little bit more tricky with the JVM but this is not
+covered in this course
+
+Hello World
+-----------
+```
+public class Main {
+    // main  Methode ist der EINSTIEGSPUNKT von JAVA
+    public static void main(String[] args) {
+        // AUSGABE
+        System.out.println("Hello World!");
+    }
+}
+```
+
+Java Execution
+--------------
+- create folder for your project!
+- Terminal: cd in the created folder
+- ! IMPORTANT ! keep your folder structure clean and make sure your Terminal is
+in the correct directory
+- create Main.java file containing the source code
+- compile the source code into binary with `javac Main.java`
+- run the programm `java Main` (we omit .class but the binary file Main.class
+will be executed)
+
+Homework
+--------
+Make sure, that Hello World runs on your local computer.
+Familiarize yourself with your IDE (e.g. VS Code) and Terminal!
