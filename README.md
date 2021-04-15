@@ -52,7 +52,7 @@ Windows: you could have a look here https://docs.oracle.com/javase/tutorial/getS
 | Date         | From  | Until | Topic                                           |
 | ------------ | ----- | ----- | ----------------------------------------------- |
 | Fri 09.04.21 | 09:00 | 12:15 | Terminal, Git, Compiler/Interpreter, HelloWorld |
-| Thu 15.04.21 | 09:00 | 12:15 | tbd                                             |
+| Thu 15.04.21 | 09:00 | 12:15 |                                                 |
 | Thu 29.04.21 | 09:00 | 12:15 | tbd                                             |
 | Fri 30.04.21 | 09:00 | 12:15 | tbd                                             |
 | Fri 07.05.21 | 13:00 | 16:15 | tbd                                             |
