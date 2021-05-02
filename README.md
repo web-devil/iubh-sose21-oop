@@ -44,7 +44,7 @@ Windows: you could have a look here https://docs.oracle.com/javase/tutorial/getS
 # Projects
 
 -   Tic Tac Toe
--   Calculator
+-   -Calculator- Hangman
 -   Enterprise Informationsystem
 
 # Dates and protocol
@@ -54,8 +54,8 @@ Windows: you could have a look here https://docs.oracle.com/javase/tutorial/getS
 | Fri 09.04.21 | 09:00 | 12:15 | Terminal, Git, Compiler/Interpreter, HelloWorld |
 | Thu 15.04.21 | 09:00 | 12:15 | Loops, if/else, Functions                       |
 | Thu 29.04.21 | 09:00 | 12:15 | OOP Grundbegriffe, Arithmetik, Variablen        |
-| Fri 30.04.21 | 09:00 | 12:15 | Packaging, Build, maven                         |
-| Fri 07.05.21 | 13:00 | 16:15 | tbd                                             |
+| Fri 30.04.21 | 09:00 | 12:15 | TicTacToe 1: grundlegende Logik                 |
+| Fri 07.05.21 | 13:00 | 16:15 | TicTacToe 2: Erweiterung (Menü, Scoreboard)     |
 | Fri 11.06.21 | 09:00 | 12:15 | tbd                                             |
 | Fri 25.06.21 | 13:00 | 16:15 | tbd                                             |
 | Fri 02.07.21 | 09:00 | 12:15 | tbd                                             |
