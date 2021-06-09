@@ -3,6 +3,7 @@ public class PlayerManagement {
     private final String PLAYER_SYMBOL_X = "x";
     private final String PLAYER_SYMBOL_O = "o";
 
+    // Player -1 VOR dem ersten Zug
     String lastPlayer = this.PLAYER_SYMBOL_O;
 
     public String getLastPlayer() {

@@ -1,3 +1,6 @@
+package app.TicTacToe.Exceptions;
+
+
 public class GameOverException extends GameException { 
     private static final String FINISHED = "Das Spiel ist bereits beendet.";
     private static final String NOT_FINISHED = "Das Spiel ist noch nicht beendet.";

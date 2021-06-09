@@ -1,15 +1,17 @@
+package app.TicTacToe;
+import app.TicTacToe.Exceptions.*;
 import java.util.Scanner;
 
-public class GamePlay {
+public class GameView {
     private Scanner input;
     private GameLogic game;
     
-    public GamePlay(Scanner input, GameLogic game) {
+    public GameView(Scanner input, GameLogic game) {
         this.input = input;
         this.game = game;
     }
 
-    public void run() {
+    public void run() throws GameOverException {
         this.welcome();
         // Law of Demeter; vs. this.game.board.print()
         this.game.printBoard();
@@ -18,11 +20,7 @@ public class GamePlay {
             this.playerAction();
         }
         
-        try {
-            System.out.println("Spieler " + this.game.getWinningPlayer() + " hat GEWONNEN!");
-        } catch (GameOverException exception) {
-            System.out.println(exception.getMessage());
-        }
+        System.out.println("Spieler " + this.game.getWinningPlayer() + " hat GEWONNEN!");
     }
 
     private void welcome() {
